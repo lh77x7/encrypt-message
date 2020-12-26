@@ -1,2 +1,2 @@
-# encrypt_message
+# encrypt-message
  
